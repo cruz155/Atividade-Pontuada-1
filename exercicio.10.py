@@ -1,7 +1,7 @@
 Import.os
 os.system("cls")
 
-@@ -0,0 +1,23 @@
+
 preco_alcool = 3.79
 preo_gasolina = 6.59
 

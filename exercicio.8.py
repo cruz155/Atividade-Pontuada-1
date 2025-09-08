@@ -2,7 +2,8 @@ import os
 os.system("cls")
 
 
-@@ -0,0 +1,17 @@
+
+
 
 tabela_precos = {
     "verde": 10.00,
